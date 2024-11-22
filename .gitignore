@@ -1,0 +1,7 @@
+# Ingore Eclipse_specific files
+/.settings/
+/bin/
+/target/
+/.metadata/
+/.classpath
+/.project
